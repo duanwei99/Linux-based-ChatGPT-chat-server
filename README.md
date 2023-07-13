@@ -15,7 +15,7 @@ mysql默认的账户密码在main.cpp中，需要调整服务器端对应的配�
 
 1、登录或注册账号
 
-![image-20230713132307122]https://github.com/duanwei99/Linux-based-ChatGPT-chat-server/blob/master/img/chat.png
+![image-20230713132307122](https://github.com/duanwei99/Linux-based-ChatGPT-chat-server/blob/master/img/chat.png)
 
 2、进入聊天界面
 
