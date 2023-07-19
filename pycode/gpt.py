@@ -2,7 +2,7 @@ from urllib.parse import unquote
 
 import zhipuai
 
-zhipuai.api_key = "389196bf710b29d5cde59d62a59df45e.hDHNPlLlh3EgCWA1"
+zhipuai.api_key = "your key"
 
 with open('/home/duanwei/TinyWebServer-master/root/welcome.html', 'r') as file:
     content = file.read()
